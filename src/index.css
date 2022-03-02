@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+#root
+  > div
+  > section
+  > div
+  > div
+  > div
+  > div
+  > div.my-4.text-red-500
+  > ul
+  > li
+  > div
+  > div {
+  color: #3b82f6 !important;
+}
