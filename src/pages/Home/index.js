@@ -21,7 +21,9 @@ function Homepage() {
   return (
     <Layout>
       <div className="flex justify-between my-8">
-        <h1 className="text-xl md:text-4xl text-indigo-700">Stadionlar</h1>
+        <h1 className="text-xl md:text-4xl text-indigo-700">
+          VIP qimmat Stadionlar
+        </h1>
         <Link
           className="bg-indigo-700 px-6 py-2 rounded text-xl text-white"
           to={"/stadium/create"}
